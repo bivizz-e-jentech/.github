@@ -2,9 +2,9 @@
 
 # Bivizz e Jen Tech
 
-**Engenharia de dados, BI e automação para operações que precisam confiar nos seus números.**
+**Consultoria em dados, BI e IA para operações que precisam confiar nos seus números.**
 
-Conectamos dados de ERPs, planilhas, bancos e APIs. Organizamos as regras de negócio, automatizamos as cargas e entregamos painéis que as equipes conseguem usar e manter. Também desenvolvemos sistemas sob medida quando o processo precisa de um fluxo próprio.
+Conectamos dados de ERPs, planilhas, bancos e APIs. Organizamos regras de negócio, automatizamos cargas e construímos painéis, integrações e sistemas sob medida. Da definição do indicador à infraestrutura que mantém a solução em funcionamento, trabalhamos com a equipe que vai operar a entrega.
 
 **[Agende um diagnóstico pelo site da Biviz](https://biviz.com.br/)**
 
@@ -16,6 +16,22 @@ Conectamos dados de ERPs, planilhas, bancos e APIs. Organizamos as regras de neg
 | Indicadores que divergem entre áreas | Definição de KPIs com o negócio, modelos semânticos e dashboards em Power BI, Qlik Sense, Metabase ou Apache Superset |
 | Ambiente Power BI lento ou difícil de governar | Diagnóstico de capacidade e desempenho, revisão de modelos e atualizações, governança de workspaces, RLS e padrões para Centros de Excelência de BI |
 | Processos que ainda dependem de planilhas e e-mails | Automações em Python, SQL e Power Automate, integrações por API e sistemas web para cadastros, aprovações e documentos |
+| Interesse em IA com um problema de negócio claro | Consultoria para priorizar casos de uso, avaliar a qualidade e as permissões dos dados e definir critérios para testar um piloto |
+| Aplicações e pipelines difíceis de implantar ou manter | Infraestrutura com Docker e Docker Compose, configuração por ambiente, documentação de implantação e monitoramento |
+
+## Cases reais
+
+### BI comercial para uma operação de distribuição
+
+**Problema.** A gestão precisava acompanhar o desempenho comercial em um painel e entender onde investigar lentidão nas consultas e no carregamento dos gráficos.
+
+**O que entregamos.** Um painel comercial em Apache Superset, com PostgreSQL e serviços em Docker, e um ambiente de diagnóstico para medir o carregamento e acompanhar o consumo de recursos. A entrega reuniu a visão comercial e os instrumentos para investigar gargalos.
+
+### Documentos e indicadores para uma plataforma de compras
+
+**Problema.** O fluxo de editais precisava aproveitar os dados já cadastrados para preparar documentos e acompanhar indicadores dentro da própria aplicação.
+
+**O que entregamos.** Integramos a proforma ao formulário de edição do edital e implementamos regras, endpoints, migrations e modelos para geração de documentos. Também integramos indicadores e documentamos um ambiente local com API, frontend e PostgreSQL em Docker Compose para facilitar a continuidade pela equipe de desenvolvimento.
 
 ## Experiência de quem entrega
 
