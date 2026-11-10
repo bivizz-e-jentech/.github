@@ -2,14 +2,32 @@
 
 # Bivizz e Jen Tech
 
-João Evangelista e Denisson Fernandes trabalham juntos no desenvolvimento de sistemas, na engenharia de dados e na automação de processos. Da integração entre sistemas aos painéis de gestão, construímos ferramentas para reduzir trabalho manual e dar visibilidade à operação.
+**Engenharia de dados, BI e automação para operações que precisam confiar nos seus números.**
 
-## O que fazemos
+Conectamos dados de ERPs, planilhas, bancos e APIs. Organizamos as regras de negócio, automatizamos as cargas e entregamos painéis que as equipes conseguem usar e manter. Também desenvolvemos sistemas sob medida quando o processo precisa de um fluxo próprio.
 
-- **Sistemas e integrações** — aplicações web e móveis, APIs e fluxos de cadastro, aprovação e geração de documentos.
-- **Dados e BI** — modelagem de bancos, pipelines de dados e painéis de indicadores com Power BI, Metabase e Apache Superset.
-- **Automação e operação** — rotinas em Python e SQL, integração de fontes e configuração de ambientes de desenvolvimento e implantação.
+**[Agende um diagnóstico pelo site da Biviz](https://biviz.com.br/)**
 
-Trabalhamos em iniciativas de tecnologia para o agronegócio, gestão de compras, inteligência comercial e produtos próprios.
+## Como podemos ajudar
 
-[Conheça a Biviz](https://biviz.com.br/)
+| Sua necessidade | O que entregamos |
+| --- | --- |
+| Dados espalhados e relatórios manuais | Pipelines ETL/ELT, integração de fontes, Data Warehouse e modelos dimensionais com regras documentadas |
+| Indicadores que divergem entre áreas | Definição de KPIs com o negócio, modelos semânticos e dashboards em Power BI, Qlik Sense, Metabase ou Apache Superset |
+| Ambiente Power BI lento ou difícil de governar | Diagnóstico de capacidade e desempenho, revisão de modelos e atualizações, governança de workspaces, RLS e padrões para Centros de Excelência de BI |
+| Processos que ainda dependem de planilhas e e-mails | Automações em Python, SQL e Power Automate, integrações por API e sistemas web para cadastros, aprovações e documentos |
+
+## Experiência de quem entrega
+
+- **Denisson Fernandes** atua em engenharia de dados e administração de Power BI Premium e Microsoft Fabric. Estruturou um Centro de Excelência de BI no varejo e automatizou rotinas de administração pela API do Power BI. Tem experiência com Databricks, Python, SQL e projetos de BI para varejo, cooperativismo financeiro e indústria.
+- **João Evangelista** atua em engenharia de dados, BI e governança de analytics. Tem experiência com desempenho de modelos semânticos em Power BI e Fabric, pipelines com Apache Hop e PostgreSQL e indicadores para gestão processual. Pela JEN Tech Solutions, trabalha com modelagem, integração e automação para os setores público e privado.
+
+## Onde atuamos
+
+Nossas frentes incluem inteligência comercial e distribuição, tecnologia para o agronegócio, gestão de compras e editais e produtos próprios. A experiência individual da dupla também abrange varejo, setor público e Judiciário.
+
+## Vamos conversar
+
+Se sua equipe gasta tempo conciliando números, depende de planilhas para fechar indicadores ou precisa melhorar um ambiente de BI existente, conte como o processo funciona hoje. Na primeira conversa, identificamos as fontes, quem usa os dados e qual entrega resolveria o problema mais urgente.
+
+**[Converse com a equipe pelo site da Biviz](https://biviz.com.br/)**
