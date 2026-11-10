@@ -47,3 +47,8 @@ Nossas frentes incluem inteligência comercial e distribuição, tecnologia para
 Se sua equipe gasta tempo conciliando números, depende de planilhas para fechar indicadores ou precisa melhorar um ambiente de BI existente, conte como o processo funciona hoje. Na primeira conversa, identificamos as fontes, quem usa os dados e qual entrega resolveria o problema mais urgente.
 
 **[Converse com a equipe pelo site da Biviz](https://biviz.com.br/)**
+
+### Contatos comerciais
+
+- **João Evangelista** — [WhatsApp (68) 99982-0998](https://wa.me/5568999820998)
+- **Denisson Fernandes** — [denisson@biviz.com.br](mailto:denisson@biviz.com.br)
