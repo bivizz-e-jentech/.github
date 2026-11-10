@@ -36,7 +36,7 @@ Conectamos dados de ERPs, planilhas, bancos e APIs. Organizamos regras de negóc
 ## Experiência de quem entrega
 
 - **[Denisson Fernandes](https://www.linkedin.com/in/denissonfernandes/)** atua em engenharia de dados e administração de Power BI Premium e Microsoft Fabric. Estruturou um Centro de Excelência de BI no varejo e automatizou rotinas de administração pela API do Power BI. Tem experiência com Databricks, Python, SQL e projetos de BI para varejo, cooperativismo financeiro e indústria.
-- **[João Evangelista](https://www.linkedin.com/in/jo%C3%A3o-evangelista-8a6409392/)** atua em engenharia de dados, BI e governança de analytics. Tem experiência com desempenho de modelos semânticos em Power BI e Fabric, pipelines com Apache Hop e PostgreSQL e indicadores para gestão processual. Pela JEN Tech Solutions, trabalha com modelagem, integração e automação para os setores público e privado.
+- **[João Evangelista](https://www.linkedin.com/in/jo%C3%A3o-evangelista-8a6409392/)** atua em engenharia de dados, BI e governança de analytics. Tem experiência com desempenho de modelos semânticos em Power BI e Fabric, pipelines com Apache Hop e PostgreSQL e indicadores para gestão processual. Também tem experiência com Qlik Sense, Databricks e Python. Pela JEN Tech Solutions, trabalha com modelagem, integração e automação para os setores público e privado.
 
 ## Onde atuamos
 
@@ -50,5 +50,5 @@ Se sua equipe gasta tempo conciliando números, depende de planilhas para fechar
 
 ### Contatos comerciais
 
-- **João Evangelista** — [WhatsApp (68) 99982-0998](https://wa.me/5568999820998)
-- **Denisson Fernandes** — [denisson@biviz.com.br](mailto:denisson@biviz.com.br)
+- **João Evangelista** — [WhatsApp (68) 99982-0998](https://wa.me/5568999820998) · [joaoevangelista@jentech.com.br](mailto:joaoevangelista@jentech.com.br)
+- **Denisson Fernandes** — [WhatsApp (68) 99944-5725](https://wa.me/5568999445725) · [denisson@biviz.com.br](mailto:denisson@biviz.com.br)
