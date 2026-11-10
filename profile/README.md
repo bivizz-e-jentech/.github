@@ -35,8 +35,8 @@ Conectamos dados de ERPs, planilhas, bancos e APIs. Organizamos regras de negóc
 
 ## Experiência de quem entrega
 
-- **Denisson Fernandes** atua em engenharia de dados e administração de Power BI Premium e Microsoft Fabric. Estruturou um Centro de Excelência de BI no varejo e automatizou rotinas de administração pela API do Power BI. Tem experiência com Databricks, Python, SQL e projetos de BI para varejo, cooperativismo financeiro e indústria.
-- **João Evangelista** atua em engenharia de dados, BI e governança de analytics. Tem experiência com desempenho de modelos semânticos em Power BI e Fabric, pipelines com Apache Hop e PostgreSQL e indicadores para gestão processual. Pela JEN Tech Solutions, trabalha com modelagem, integração e automação para os setores público e privado.
+- **[Denisson Fernandes](https://www.linkedin.com/in/denissonfernandes/)** atua em engenharia de dados e administração de Power BI Premium e Microsoft Fabric. Estruturou um Centro de Excelência de BI no varejo e automatizou rotinas de administração pela API do Power BI. Tem experiência com Databricks, Python, SQL e projetos de BI para varejo, cooperativismo financeiro e indústria.
+- **[João Evangelista](https://www.linkedin.com/in/jo%C3%A3o-evangelista-8a6409392/)** atua em engenharia de dados, BI e governança de analytics. Tem experiência com desempenho de modelos semânticos em Power BI e Fabric, pipelines com Apache Hop e PostgreSQL e indicadores para gestão processual. Pela JEN Tech Solutions, trabalha com modelagem, integração e automação para os setores público e privado.
 
 ## Onde atuamos
 
