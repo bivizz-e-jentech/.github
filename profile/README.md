@@ -1,4 +1,4 @@
-![Biviz e JEN Tech Solutions](capa.png)
+![Biviz e JEN Tech Solutions](capa.png?v=2)
 
 # Bivizz e Jen Tech
 
